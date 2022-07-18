@@ -30,3 +30,6 @@ git checkout main, git branch secondLocalVranch, git checkout secondLocalVranch
 
     Сохраняюсь
     
+На сервере для домашнего создаю третю ветку из main - ветка thirdRemoteBranch
+
+Сохраняю но не буду добавлять в ветку main
