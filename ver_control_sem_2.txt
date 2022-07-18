@@ -30,3 +30,12 @@ git checkout main, git branch secondLocalVranch, git checkout secondLocalVranch
 
     Сохраняюсь
     
+На сервере для домашнего создаю третю ветку из main - ветка thirdRemoteBranch
+
+Сохраняю но не буду добавлять в ветку main
+
+Получил в VisualStudioCode изменения из ветки thirdRemoteBranch
+
+Сейчас создам четвертую ветку и постараюсь внести изменения с конфликтом, разрешать который буду отклонив изменения
+
+Отклоняемые изменения внесу в строку 33 - удаляю текст
